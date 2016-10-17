@@ -6,3 +6,5 @@ This is a simple Qlik Sense Extension that allows Users to put a Background Imag
 It´s also possible to associate an image to a field value or another type of condition for changing the background image dynamically.
 
 <a href="https://imgflip.com/gif/1chtr7"><img src="https://i.imgflip.com/1chtr7.gif" title="Background Image for Qlik Sense"/></a> 
+
+For More details about configurations you can access this video: https://youtu.be/wO2M76NQ-Io 
