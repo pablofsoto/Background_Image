@@ -13,19 +13,19 @@ define([], function() {
                 label: "Background Info",
                 ref: "BackgroundInfo",
                 items: {
-                    background_video_url: {
+                    background_url: {
                         ref: "background.imgurl",
                         label: "IMG URL",
                         type: "string",
                         expression: "optional",
-                        defaultValue: "http://feelgrafix.com/data/landscape/landscape-1.jpg"
+                        defaultValue: "'http://4.bp.blogspot.com/-mHaluG7qA28/UCrZcw03t2I/AAAAAAAAEI0/bhccobL7vmM/s640/LANDSCAPE-BEIRA-MAR-1.jpg'"
                     },
                      background_transparency: {
                          ref: "background.transparency",
                          label: "Transparency",
                          type: "string",
                          expression: "optional",
-                         defaultValue: 0.8
+                         defaultValue: 0.7
                      }
                     //  background_color: {
                     //      ref: "background.color",
